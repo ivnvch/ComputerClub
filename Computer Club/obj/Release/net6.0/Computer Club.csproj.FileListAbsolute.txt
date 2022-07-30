@@ -1,0 +1,72 @@
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\appsettings.Development.json
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\appsettings.json
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Computer Club.exe
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Computer Club.deps.json
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Computer Club.runtimeconfig.json
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Computer Club.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Computer Club.pdb
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Azure.Core.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Azure.Identity.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.Identity.Client.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.OpenApi.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\System.Drawing.Common.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\System.Memory.Data.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\System.Runtime.Caching.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\System.Security.Permissions.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\System.Windows.Extensions.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Visual Studio\Computer Club\Computer Club\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Visual Studio\Computer Club\Computer Club\obj\Release\net6.0\Computer Club.csproj.AssemblyReference.cache
+E:\Visual Studio\Computer Club\Computer Club\obj\Release\net6.0\Computer Club.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\Computer Club\Computer Club\obj\Release\net6.0\Computer Club.AssemblyInfoInputs.cache
+E:\Visual Studio\Computer Club\Computer Club\obj\Release\net6.0\Computer Club.AssemblyInfo.cs
+E:\Visual Studio\Computer Club\Computer Club\obj\Release\net6.0\Computer Club.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Computer Club\Computer Club\obj\Release\net6.0\Computer Club.MvcApplicationPartsAssemblyInfo.cs
+E:\Visual Studio\Computer Club\Computer Club\obj\Release\net6.0\Computer Club.MvcApplicationPartsAssemblyInfo.cache
+E:\Visual Studio\Computer Club\Computer Club\obj\Release\net6.0\staticwebassets.build.json
+E:\Visual Studio\Computer Club\Computer Club\obj\Release\net6.0\staticwebassets.development.json
+E:\Visual Studio\Computer Club\Computer Club\obj\Release\net6.0\scopedcss\bundle\Computer Club.styles.css
+E:\Visual Studio\Computer Club\Computer Club\obj\Release\net6.0\Computer Club.csproj.CopyComplete
+E:\Visual Studio\Computer Club\Computer Club\obj\Release\net6.0\Computer Club.dll
+E:\Visual Studio\Computer Club\Computer Club\obj\Release\net6.0\refint\Computer Club.dll
+E:\Visual Studio\Computer Club\Computer Club\obj\Release\net6.0\Computer Club.pdb
+E:\Visual Studio\Computer Club\Computer Club\obj\Release\net6.0\Computer Club.genruntimeconfig.cache
+E:\Visual Studio\Computer Club\Computer Club\obj\Release\net6.0\ref\Computer Club.dll
